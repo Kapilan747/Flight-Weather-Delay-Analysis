@@ -18,9 +18,9 @@ The dataset used for this project contains flight and weather data from 2022.
 
 ## Usage
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kapilan747/flight-weather-analysis.git
-   ```
+```bash
+git clone https://github.com/Kapilan747/flight-weather-analysis.git
+```
    
 2.Install the required libraries:
   ```bash
